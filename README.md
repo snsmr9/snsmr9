@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Saleh!
 - 👀 I’m interested in leanring about cyber security and coding!
-- 🌱 I’m currently studying networks and information security engineering!
+- 🌱 I’m currently studying cyber security!
 - 📫 You can reach out to me on my email which is snsmr9@gmail.com!
 
 <!---
